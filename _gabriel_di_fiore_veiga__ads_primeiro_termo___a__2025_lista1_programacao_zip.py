@@ -87,4 +87,6 @@ m5 = m4_arredondado * 80
 print(f'A quantidade de latas necessárias são: {m4_arredondado} latas')
 print(f'O valor das latas será: {m5} reais')
 # teste foda 2.0
+#macumba
+
 
